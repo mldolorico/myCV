@@ -9,5 +9,6 @@ h2{
 }
 
 .jumbotron{
+	text-align: center;
 	background-color: lightcyan;
 }
