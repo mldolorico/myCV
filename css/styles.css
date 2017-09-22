@@ -3,6 +3,11 @@ h1 {
   background: yellow;
 }
 
+h3{
+  color: maroon;
+  backgroud: gray:
+}
+
 * {box-sizing:border-box}
 	body {font-family: Verdana,sans-serif;}
 	.mySlides {display:none}
