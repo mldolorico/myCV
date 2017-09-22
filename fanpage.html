@@ -55,7 +55,7 @@
   	-webkit-animation-name: fade;
   	-webkit-animation-duration: 1.5s;
   	animation-name: fade;
-  	animation-duration: 1.5s;
+  	animation-duration: 5s;
 	}
 
 	@-webkit-keyframes fade {
@@ -150,7 +150,7 @@ function showSlides() {
     }
     slides[slideIndex-1].style.display = "block";  
     dots[slideIndex-1].className += " active";
-    setTimeout(showSlides, 5000); // Change image every 2 seconds
+    setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
 </script>
 
