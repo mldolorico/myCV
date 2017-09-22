@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MY CV</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="css/custom.css">
+</head>
+<body>
+<div class="container">
+	<div class="jumbotron">
+		<img src="https://pbs.twimg.com/profile_images/882405587773935617/1xOpkqiO.jpg" class="img-fluid" alt="Responsive image" width="400px" height="400px">
+		<h1>Martin John L. Dolorico</h1>
+		<p>Professional Fanboy. Ambivert. Cancer. INTP. Phlegmatic. Audiophile. Geek.</p>
+
+	</div>
+	<div class="slideshow-container">
+  <div class="mySlides fade">
+    <div class="numbertext">1 / 6</div>
+    <img src="http://pearshapedexeter.com/wp-content/uploads/2016/03/Boyce-Avenue.jpg" class="img-fluid" alt="Responsive image" width="400px" height="400px">
+    <div class="text">Boyce Avenue</div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 6</div>
+    <img src="https://pbs.twimg.com/profile_images/796481522555621376/_IFgp3Fl.jpg" class="img-fluid" alt="Responsive image" width="400px" height="400px">
+    <div class="text">Barrett Baber</div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 6</div>
+    <img src="http://first-avenue.com/sites/default/files/images/events/lukewade1_0.jpg" class="img-fluid" alt="Responsive image" width="400px" height="400px">
+    <div class="text">Luke Wade</div>
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">4 / 6</div>
+    <img src="https://pbs.twimg.com/profile_images/893880949124939776/GQJo5_wY_400x400.jpg" class="img-fluid" alt="Responsive image" width="400px" height="400px">
+    <div class="text">Ryan Quinn</div>
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">5 / 6</div>
+    <img src="https://pbs.twimg.com/profile_images/896488895696613377/o0g5ZMcb.jpg" class="img-fluid" alt="Responsive image" width="400px" height="400px">
+    <div class="text">Michael Sanchez</div>
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">6 / 6</div>
+    <img src="https://pbs.twimg.com/profile_images/853812211851984896/-ol0bbxL.jpg" class="img-fluid" alt="Responsive image" width="400px" height="400px">
+    <div class="text">Hunter Plake</div>
+  </div>
+
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span> 
+  <span class="dot" onclick="currentSlide(5)"></span> 
+  <span class="dot" onclick="currentSlide(6)"></span> 
+</div>
+
+
+
+
+</body>
+</html>
